@@ -40,10 +40,14 @@ li a {
 
   li a:hover {
     background-color: #fff;
+    color: #333333;
+    text-decoration: none;
   }
 
   .images {
       margin: 10px 10px 0px 10px;
+      width: 300px;
+      height: 350px;
   }
 
   p {
@@ -52,4 +56,8 @@ li a {
   
   figcaption {
       margin-left: 10px; 
+  }
+
+  a {
+      margin-left: 10px;
   }
