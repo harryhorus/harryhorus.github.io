@@ -54,10 +54,9 @@ li {
   }
 
 .images {
-      height: 350px;
-      margin: 10px 10px 0px 10px;
-      width: 300px;
-  }
+    width: 300px;
+    height: 350px;
+    object-fit: scale-down;
 
 p {
       margin: 10px;
