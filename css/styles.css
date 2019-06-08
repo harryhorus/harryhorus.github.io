@@ -89,8 +89,21 @@ figcaption {
       text-decoration: none;
   }
 
+  .wiki-links:link {
+    text-decoration: none;
+  }
+
   .wiki-links:visited {
       color: #fff;
+      text-decoration: none;
+  }
+
+  .wiki-links:hover {
+      background-color: #6666ff;
+      text-decoration: none;
+  }
+
+  .wiki-links:active {
       text-decoration: none;
   }
 
